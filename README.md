@@ -1,4 +1,4 @@
-# NoteForge
+# NoteVault 
 
 A modern desktop note-taking application built using Electron, React, TypeScript, and Vite.
 
