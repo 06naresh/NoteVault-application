@@ -1,8 +1,8 @@
-# NoteVault .
+# NoteVault
 
-A modern desktop note-taking application built using Electron, React, TypeScript, and Vite
+A modern desktop note-taking application built using Electron, React, TypeScript, and Vite.
 
-## 🚀 Features.
+## 🚀 Features
 
 - Create and manage notes
 - Clean and responsive UI
@@ -11,7 +11,7 @@ A modern desktop note-taking application built using Electron, React, TypeScript
 - Modern Electron architecture
 - Built with TypeScript
 
-## 🛠️ Tech Stack.
+## 🛠️ Tech Stack
 
 - Electron
 - React
@@ -19,7 +19,7 @@ A modern desktop note-taking application built using Electron, React, TypeScript
 - Vite
 - CSS
 
-## 📂 Project Structure.
+## 📂 Project Structure
 
 ```bash
 electron/
